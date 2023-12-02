@@ -1,0 +1,1 @@
+executeCommand("/InfiniteAura exit")

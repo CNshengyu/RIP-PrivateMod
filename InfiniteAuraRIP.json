@@ -1,0 +1,69 @@
+{
+    "type": "Menu",
+    "title": "InfiniteAuraRIP",
+    "title_bg_color": "#B6D6F2",
+    "title_start_color": "#00BFFF",
+    "title_end_color": "#8A2BE2",
+    "color": "#FFFFFF",
+    "alpha": 0.9,
+    "can_close": true,
+    "hide": true,
+    "items": [
+      {
+            "type": "TextView",
+            "name": "加载InfiniteAura",
+            "color": "#3D3D3D",
+            "size": 12,
+            "padding": [5, 5, 5, 5],
+            "load_script": "InfiniteAura - command.js"
+      },
+      {
+            "type": "TextView",
+            "name": "开关InfiniteAura",
+            "color": "#3D3D3D",
+            "size": 12,
+            "padding": [5, 5, 5, 5],
+            "load_script": "MainIA.js"
+      },
+      {
+            "type": "TextView",
+            "name": "开关自动模式",
+            "color": "#3D3D3D",
+            "size": 12,
+            "padding": [5, 5, 5, 5],
+            "load_script": "AutoTP.js"
+      },
+      {
+            "type": "TextView",
+            "name": "开关智能队友",
+            "color": "#3D3D3D",
+            "size": 12,
+            "padding": [5, 5, 5, 5],
+            "load_script": "Teams.js"
+      },
+      {
+            "type": "TextView",
+            "name": "Pos模式",
+            "color": "#3D3D3D",
+            "size": 12,
+            "padding": [5, 5, 5, 5],
+            "load_script": "Pos.js"
+      },
+      {
+            "type": "TextView",
+            "name": "Motion模式",
+            "color": "#3D3D3D",
+            "size": 12,
+            "padding": [5, 5, 5, 5],
+            "load_script": "Motion.js"
+      },
+      {
+            "type": "TextView",
+            "name": "退出脚本",
+            "color": "#3D3D3D",
+            "size": 12,
+            "padding": [5, 5, 5, 5],
+            "load_script": "exit.js"
+      }
+    ]
+}

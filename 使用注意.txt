@@ -1,0 +1,5 @@
+请将后缀名为.js的文件放入/storage/emulated/0/Android/data/com.netease.x19/files/resources/script
+
+将InfiniteAuraRIP.json放入/storage/emulated/0/Android/data/com.netease.x19/files/resources/ui/
+
+在/storage/emulated/0/Android/data/com.netease.x19/files/resources/ui/中的ui_definition.json中添加"InfiniteAuraRIP.json"，对齐上下，如果是最后一个，注意不要有英文逗号，其他的都需在后面添加英文逗号
